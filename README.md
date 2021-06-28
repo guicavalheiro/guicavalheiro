@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Guilherme Cavalheiro
+
+## 🔭 Work
+
+I work in HP, as a software engineering. Previously I was a HP intern in data science.
+
+## 🌱 I’m currently learning
+
+I study Android to perform work related tasks, and in my spare time at work and life I dedicate myself to learn data science.
 <!--
 **guicavalheiro/guicavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

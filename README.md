@@ -4,7 +4,7 @@ My name is Guilherme Cavalheiro
 
 ## 🔭 Work
 
-I work in HP, as a software engineering. Previously I was a HP intern in data science.
+I work in HP, as a software engineering. Previously I was a HP intern in data science. Before HP, I was a research intern at a NLP Group in PUCRS, the college which I'm graduating.
 
 ## 🌱 I’m currently learning
 

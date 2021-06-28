@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Guilherme Cavalheiro
+My name is Guilherme Cavalheiro!
 
 ## 🔭 Work
 

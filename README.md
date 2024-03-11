@@ -4,11 +4,12 @@ My name is Guilherme Cavalheiro!
 
 ## 🔭 Work
 
-I work in HP, as a software engineering. Previously I was a HP intern in data science. Before HP, I was a research intern at a NLP Group in PUCRS, the college which I'm graduating.
+As a highly motivated Data Engineer, I'm driven by my passion for data analysis, data mining, and data-driven problem solving. My background in the IT industry spans over 6 years, during which I've worked with NLP research groups, NLPbased software development in HP, and now as a Data Engineer at FIERGS, a leading industry company in Brazil.
 
 ## 🌱 I’m currently learning
 
-I study ReactJS and Node to perform work related tasks, and in my spare time at work and life I dedicate myself to learn data engineering, which is the branch of data science that I want to focus my career in the next years.
+I study Data Engineering Pipelines, currently specializing in Azure DE Services.
+
 <!--
 **guicavalheiro/guicavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
